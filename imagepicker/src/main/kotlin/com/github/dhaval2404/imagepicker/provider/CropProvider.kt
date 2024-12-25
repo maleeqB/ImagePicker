@@ -112,6 +112,7 @@ class CropProvider(activity: ImagePickerActivity) : BaseProvider(activity) {
 
         val options = UCrop.Options()
         options.setCompressionFormat(FileUtil.getCompressFormat(extension))
+        options.setFreeStyleCropEnabled(true)
 
         val uCrop = UCrop.of(uri, Uri.fromFile(mCropImageFile))
             .withOptions(options)
