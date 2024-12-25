@@ -57,23 +57,23 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'imagepicker'
 
-    publishedGroupId = 'com.github.prathameshmm02'
+    publishedGroupId = 'com.github.maleeqB'
     libraryName = 'imagepicker'
     artifact = 'imagepicker'
 
     libraryDescription = 'Pick image from Gallery or Capture new image with Camera.'
 
-    siteUrl = 'https://github.com/prathameshmm02/ImagePicker/'
-    gitUrl = 'https://github.com/prathameshmm02/ImagePicker.git'
+    siteUrl = 'https://github.com/maleeqB/ImagePicker/'
+    gitUrl = 'https://github.com/maleeqB/ImagePicker.git'
 
-    libraryVersion = '3.0'
+    libraryVersion = '3.1'
     //If you are uploading new library try : gradlew install
     //If you are updating existing library then execute: gradlew bintrayUpload
     //In both the case don't forgot to put bintray credentials in local.properties file.
 
-    developerId = 'prathameshmm02'
-    developerName = 'Prathamesh More'
-    developerEmail = 'prathameshmm02@gmail.com'
+    developerId = 'maleeqB'
+    developerName = 'AbdulMalik Bello'
+    developerEmail = 'malikbello084@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
