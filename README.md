@@ -1,20 +1,20 @@
 # 📸Image Picker Library for Android
 
-[![Download](https://jitpack.io/v/prathameshmm02/ImagePicker.svg)](https://jitpack.io/#prathameshmm02/ImagePicker)
-[![Releases](https://img.shields.io/github/release/prathameshmm02/imagePicker/all.svg?style=flat-square)](https://github.com/prathameshmm02/ImagePicker/releases)
+[![Download](https://jitpack.io/v/maleeqB/ImagePicker.svg)](https://jitpack.io/#maleeqB/ImagePicker)
+[![Releases](https://img.shields.io/github/release/maleeqB/imagePicker/all.svg?style=flat-square)](https://github.com/maleeqB/ImagePicker/releases)
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-![Build Status](https://github.com/prathameshmm02/ImagePicker/workflows/Build/badge.svg)
+![Build Status](https://github.com/maleeqB/ImagePicker/workflows/Build/badge.svg)
 ![Language](https://img.shields.io/badge/language-Kotlin-orange.svg)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ImagePicker-green.svg?style=flat)](https://android-arsenal.com/details/1/7510)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
-[![PRWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/prathameshmm02/ImagePicker)
+[![PRWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/maleeqB/ImagePicker)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/prathameshmm02/ImagePicker/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/maleeqB/ImagePicker/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Dhaval2404/ImagePicker.svg?style=social)](https://twitter.com/intent/tweet?text=Check+out+an+ImagePicker+library+to+Pick+an+image+from+the+Gallery+or+Capture+an+image+with+Camera.+https%3A%2F%2Fgithub.com%2FDhaval2404%2FImagePicker+%40dhaval2404+%23Android+%23Kotlin+%23AndroidDev)
 
 <div align="center">
   <sub>Built with ❤︎ by
-  <a href="https://twitter.com/Dhaval2404">Dhaval Patel</a>, <a href="https://github.com/prathameshmm02">Prathamesh More</a> and
+  <a href="https://twitter.com/Dhaval2404">Dhaval Patel</a>, <a href="https://github.com/prathameshmm02">Prathamesh More</a>,  <a href="https://github.com/maleeqB">AbdulMalik Bello</a> and
   <a href="https://github.com/dhaval2404/imagepicker/graphs/contributors">
     contributors
   </a>
@@ -58,7 +58,7 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
    ```
 
    ```groovy
-   implementation 'com.github.prathameshmm02:imagepicker:3.0'
+   implementation 'com.github.maleeqB:ImagePicker:v3.1'
    ```
 
    **If you are yet to Migrate on AndroidX, Use support build artifact:**

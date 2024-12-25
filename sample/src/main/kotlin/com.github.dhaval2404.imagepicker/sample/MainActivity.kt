@@ -23,7 +23,7 @@ import java.io.File
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        private const val GITHUB_REPOSITORY = "https://github.com/Dhaval2404/ImagePicker"
+        private const val GITHUB_REPOSITORY = "https://github.com/maleeqB/ImagePicker"
     }
 
     private var mCameraUri: Uri? = null
