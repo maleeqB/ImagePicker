@@ -307,6 +307,14 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
 
 # ✔️Changelog
 
+### Version: 3.2
+
+- Fixed  PersistableUriPermission issue [#294](https://github.com/Dhaval2404/ImagePicker/issues/294) 
+
+### Version: 3.1
+
+- Enabled freestyle cropping of images
+
 ### Version: 3.0
 
 - Added Android 13 support
