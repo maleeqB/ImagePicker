@@ -77,18 +77,9 @@ class GalleryProvider(
      */
     private fun handleResult(uri: Uri?) {
         if (uri != null) {
-            takePersistableUriPermission(uri)
             activity.setImage(uri)
         } else {
             setError(R.string.error_failed_pick_gallery_image)
         }
-    }
-
-    /**
-     * Take a persistable URI permission grant that has been offered. Once
-     * taken, the permission grant will be remembered across device reboots.
-     */
-    private fun takePersistableUriPermission(uri: Uri) {
-        contentResolver.takePersistableUriPermission(uri, Intent.FLAG_GRANT_READ_URI_PERMISSION)
     }
 }
