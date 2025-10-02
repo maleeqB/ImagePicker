@@ -58,7 +58,7 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
    ```
 
    ```groovy
-   implementation 'com.github.maleeqB:ImagePicker:v3.1'
+   implementation 'com.github.maleeqB:ImagePicker:v3.3'
    ```
 
    **If you are yet to Migrate on AndroidX, Use support build artifact:**
@@ -306,6 +306,10 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
 - Sample - Android Lollipop 5.0 (API 21)
 
 # ✔️Changelog
+
+### Version: 3.3
+
+- Fixed  Window inset issue [#346](https://github.com/Dhaval2404/ImagePicker/issues/346)
 
 ### Version: 3.2
 
